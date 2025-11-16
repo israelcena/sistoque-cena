@@ -270,7 +270,7 @@ export default function Home() {
         {products.length === 0 && (
           <div className="text-center py-12">
             <p className="text-gray-500 dark:text-gray-400 text-lg">
-              Nenhum produto cadastrado. Clique em "Novo Produto" para começar.
+              Nenhum produto cadastrado. Clique em &quot;Novo Produto&quot; para começar.
             </p>
           </div>
         )}
